@@ -1,0 +1,3 @@
+[submodule "submoduleTest2"]
+	path = submoduleTest2
+	url = https://github.com/ztqgit/submoduleTest2
